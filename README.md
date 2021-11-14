@@ -5,13 +5,13 @@
 - The concept is that based on attained marks, students are displayed with their respective grades
 
 - The applied grading metric in this script is as shown below;
-70 - 100    A - Excellent
-65 - 69     B - Very Good
-60 - 64     C - Good
-55 - 59     D - Credit
-40 - 54     E - Pass
-39 & below  F - Fail
+1. 70 - 100    A - Excellent
+2. 65 - 69     B - Very Good
+3. 60 - 64     C - Good
+4. 55 - 59     D - Credit
+5. 40 - 54     E - Pass
+6. 39 & below  F - Fail
 
-*/
-// The script accepts float entries, with users able to enter whole and decimal values for marks
-// Examples includes 20, 34, 56.8, 86.88, and 23
+#### Notes
+- The script accepts float entries, with users able to enter whole and decimal values for marks
+- Examples include 20, 34, 56.8, 86.88, 99.99 and 23
