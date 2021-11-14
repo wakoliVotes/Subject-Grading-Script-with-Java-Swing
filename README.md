@@ -1,4 +1,4 @@
-## Grading-System-Script-Java-Swing
+## Subject Grading Script with Java Swing
 ### Script Explanation
 - This script is on an exam grading system using Graphical User Interface (GUI)
 - The Java swing class is key in allowing this operation
