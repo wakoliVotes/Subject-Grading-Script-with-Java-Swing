@@ -4,7 +4,7 @@
 - The Java swing class is key in allowing this operation
 - The concept is that based on attained marks, students are displayed with their respective grades
 
-/* The grading is based on the system below;
+- The applied grading metric in this script is as shown below;
 70 - 100    A - Excellent
 65 - 69     B - Very Good
 60 - 64     C - Good
